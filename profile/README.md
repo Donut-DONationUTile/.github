@@ -19,14 +19,14 @@ Donut that contains the meaning of donation and utile is a service that allow Gi
 ## Table of Contents
 - [DONUT](#DONUT-DONationUTile)
   - [Overview](#Overview)
-  - [Table of Contents](#Table of Contents)
+  - [Table of Contents](#Table-of-Contents)
   - [Sustainable Development Goals (SDGs)](#Sustainable-Development-Goals-SDGs)
   - [Tech & Tools](#Tech--Tools)
   - [Architecture](#Architecture)
   - [How to Run](#How-to-Run)
   - [Demo Video](#Demo-Video)
   - [How to Use DONUT](#How-to-Use-DONUT)
-  - [TEAM ZPE (0.8)](#TEAM ZPE (0.8))
+  - [TEAM ZPE (0.8)](#TEAM-ZPE-(0.8))
 
 </br>
 
