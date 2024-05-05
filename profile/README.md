@@ -34,7 +34,7 @@
 
 ## Architecture
 
-<image src='https://github.com/Donut-DONationUTile/.github/assets/79368467/8414eb2e-fea3-46b1-9caf-e4ab372dfa8d?raw=true' width="800"/>
+<image src='https://github.com/akimcse/akimcse/assets/63237214/3e7744b7-74e9-4c82-a6fd-af68271b2595' width="800"/>
 </br></br>
 
 #### DONUT is comprised of a Client Application, Web Server, Database, Storage, and AI Server.
