@@ -16,8 +16,8 @@
 ## Table of Contents
   - [Sustainable Development Goals (SDGs)](#Sustainable-Development-Goals-SDGs)
   - [Architecture](#Architecture)
-  - [How to Run](#How-to-Run)
-  - [Demo Video](#Demo-Video)
+  - [Tech Stacks](#Tech-stacks)
+  - [How to Run](#How-to-Run-(Client))
   - [How to Use DONUT](#How-to-Use-DONUT)
   - [TEAM ZPE (0.8)](#TEAM-ZPE-(0.8))
 
@@ -52,7 +52,7 @@
 
 </br></br>
 
-## How to Run - Client
+## How to Run (Client)
 
 ### Requirements
 #### Software requirement
@@ -73,7 +73,7 @@
 
 </br>
 
-## How to Run - Server
+## How to Run (Server)
 
 1. sudo docker pull `kang1221/donut`
 2. sudo docker tag `kang1221/donut donut`
