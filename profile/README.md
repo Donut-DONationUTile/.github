@@ -34,7 +34,7 @@
 
 ## Architecture
 
-<image src='https://github.com/akimcse/akimcse/assets/63237214/3e7744b7-74e9-4c82-a6fd-af68271b2595' width="800"/>
+<image src='https://github.com/akimcse/akimcse/assets/63237214/3e7744b7-74e9-4c82-a6fd-af68271b2595'/>
 </br></br>
 
 #### DONUT is comprised of a Client Application, Web Server, Database, Storage, and AI Server.
@@ -85,7 +85,7 @@
 </br>
 
 ## How to Use DONUT
-<image src='https://github.com/akimcse/akimcse/assets/63237214/c2989b81-ab54-4b62-be74-e985b90456de' width="800"/>
+<image src='https://github.com/akimcse/akimcse/assets/63237214/853e1456-4482-4545-b258-439c694281f9'/>
 
 </br>
 </br>
