@@ -17,7 +17,7 @@
   - [Sustainable Development Goals (SDGs)](#Sustainable-Development-Goals-SDGs)
   - [Architecture](#Architecture)
   - [Tech Stacks](#Tech-stacks)
-  - [How to Run](#How-to-Run-(Client))
+  - [How to Run](#How-to-Run)
   - [How to Use DONUT](#How-to-Use-DONUT)
   - [TEAM ZPE (0.8)](#TEAM-ZPE-(0.8))
 
@@ -52,9 +52,10 @@
 
 </br></br>
 
-## How to Run (Client)
+## How to Run
 
-### Requirements
+### Clinet
+
 #### Software requirement
 
 - Android studio Flamingo 2022.2.1
@@ -66,14 +67,14 @@
 - CameraX supported Android Device within [this link](https://developer.android.com/media/camera/camerax/devices)
 (CameraX is supported on most Android devices running Android 5.0 (API level 21) and higher.)
 
-
+#### How to Run the Application
 1. Check the requirement above.
 2. Download the [APK file](https://drive.google.com/file/d/1g9B9qp6Sc10ojrjxJZ483lGM3o34yWJt/view?usp=sharing) on your Android device.
 3. Run the apllication from APK file
 
 </br>
 
-## How to Run (Server)
+### Server
 
 1. sudo docker pull `kang1221/donut`
 2. sudo docker tag `kang1221/donut donut`
