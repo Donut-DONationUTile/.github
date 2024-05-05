@@ -5,7 +5,7 @@
 
 </br>
 
-## Overview
+# 🍩 Overview
 [![Demo Video](https://github.com/akimcse/akimcse/assets/63237214/3aac2345-cb7c-4037-8ed8-a5fa99ef7fc3)](https://youtu.be/qjlmdKrCPaI)
 
   `DONUT` is a sustainable donation platform tailored to the developmental characteristics of adolescents, providing a stigma-free process for beneficiaries. </br></br>
@@ -13,7 +13,7 @@
 
 </br></br>
 
-## Table of Contents
+# 📂 Table of Contents
   - [Sustainable Development Goals (SDGs)](#Sustainable-Development-Goals-SDGs)
   - [Architecture](#Architecture)
   - [Tech Stacks](#Tech-stacks)
@@ -23,7 +23,7 @@
 
 </br></br>
 
-## Sustainable Development Goals (SDGs)
+# 🌏 Sustainable Development Goals (SDGs)
 | [1] No Poverty                                                                                                              | [12] Responsible Consumption and Production |
 |-----------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|
 | <img src="https://github.com/Donut-DONationUTile/.github/assets/79368467/2eb097ef-2c68-439f-a080-76c8328cb457" width="400"> | <img src="https://github.com/Donut-DONationUTile/.github/assets/79368467/51c7f9e8-cbec-46d1-865e-e615e5548261" width="400"> |
@@ -31,7 +31,7 @@
 
 </br></br>
 
-## Architecture
+# 🛠️ Architecture
 
 <image src='https://github.com/akimcse/akimcse/assets/63237214/49c749af-5579-42fe-b45c-d85a9c258dd8'/>
 </br></br>
@@ -47,12 +47,12 @@
 
 </br></br>
 
-## Tech Stacks
+# ⚙️ Tech Stacks
 ![image](https://github.com/Donut-DONationUTile/.github/assets/90603399/b35af4c6-eaf9-4588-aa71-587d2f13f2f2)
 
 </br></br>
 
-## How to Run
+# 🚀 How to Run
 
 ### Clinet
 
@@ -82,14 +82,30 @@
 
 </br></br>
 
-## How to Use DONUT
+# ✨ How to Use DONUT
 <image src='https://github.com/akimcse/akimcse/assets/63237214/845d8d38-2b73-4897-ba63-c45ba32e28d0'/>
 
 </br></br>
 
-## TEAM ZPE (0.8)
+# 🌸 TEAM ZPE (0.8)
 
-|                                    Client                                     |                                    Server                                     |                                 AI & Server                                  |                                UX & UI Design                                |
-|:-----------------------------------------------------------------------------:|:-----------------------------------------------------------------------------:|:----------------------------------------------------------------------------:|:----------------------------------------------------------------------------:|
-|                    [Hyuna Kim](https://github.com/akimcse)                    |                   [Ganghee Lee](https://github.com/Ganghee-Lee-0522)                   |                [Yeonsoo Kang](https://github.com/Kang1221)                |                                [Sohyun Kim](https://www.behance.net/kimsh9181fabf)                                |
-
+<table align="center">
+  <tr align="center">
+    <td>Client</td>
+    <td>Server</td>
+    <td>Server & AI</td>
+    <td>UX & UI Design</td>
+  </tr>
+  <tr align="center">
+    <td><img src="https://github.com/akimcse.png" width="150"></td>
+    <td><img src="https://github.com/Ganghee-Lee-0522.png" width="150"></td>
+    <td><img src="https://github.com/Kang1221.png" width="150"></td>
+    <td><img src="https://i3.ruliweb.com/cmt/23/05/04/187e4d839734e211c.jpg" width="150"></td>
+  </tr>
+  <tr align="center">
+    <td><a href="https://github.com/akimcse">Hyuna Kim</a></td>
+    <td><a href="https://github.com/Ganghee-Lee-0522">Ganghee Lee</a></td>
+    <td><a href="https://github.com/Kang1221">Yensoo Kang</a></td>
+    <td><a href="https://www.behance.net/kimsh9181fabf">Sohyun Kim</a></td>
+  </tr>
+</table>
