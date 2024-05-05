@@ -76,8 +76,8 @@
 
 ### Server
 
-1. sudo docker pull `kang1221/donut`
-2. sudo docker tag `kang1221/donut donut`
+1. sudo docker pull `zpedonut/donut`
+2. sudo docker tag `zpedonut/donut donut`
 3. sudo docker-compose up
 
 </br></br>
