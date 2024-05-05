@@ -54,7 +54,7 @@
 
 # 🚀 How to Run
 
-### Clinet
+### Client
 
 #### Software requirement
 
@@ -76,9 +76,22 @@
 
 ### Server
 
-1. sudo docker pull `zpedonut/donut`
-2. sudo docker tag `zpedonut/donut donut`
-3. sudo docker-compose up
+#### Requirement
+
+- Account of Docker Hub
+
+#### Local
+1. gradle build
+2. docker build -t `yourAccount`/`yourRepository` ./
+3. docker push `yourAccount`/`yourRepository`
+
+#### Deploy  
+1. create docker-compose.yml
+2. sudo docker pull `yourAccount`/`yourRepository`
+3. sudo docker tag `yourAccount`/`yourRepository` `dockerImageName`
+4. sudo docker-compose up
+
+( [docker-compose.yml that we created is on Server repository](https://github.com/Donut-DONationUTile/Donut_Server/blob/main/docker-compose.yml))
 
 </br></br>
 
