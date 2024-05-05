@@ -46,6 +46,12 @@
   </br></br>
   The AI Model, served by `FastAPI`, is hosted on a separate VM from the Web Server. It is also deployed using Docker in preparation for utilizing `Kubernetes` for resource management caused by an increase in the number of users. Low-resolution gift card images forwarded from the Web Server to the AI Server are enhanced to high resolution using `TensorFlow`’s ESRGAN model and then stored in the GCP Storage bucket. The URLs of the stored objects are also updated in the Database.
 
+</br>
+
+## Tech Stacks
+
+
+![image](https://github.com/Donut-DONationUTile/.github/assets/90603399/b35af4c6-eaf9-4588-aa71-587d2f13f2f2)
 
 </br>
 
