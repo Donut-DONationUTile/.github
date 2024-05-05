@@ -11,7 +11,7 @@
   `DONUT` is a sustainable donation platform tailored to the developmental characteristics of adolescents, providing a stigma-free process for beneficiaries. </br></br>
   By utilizing unused resources such as gift vouchers, amounting to 900 million KRW annually in South Korea, it facilitates low-income youth to purchase groceries and essential items.
 
-</br>
+</br></br>
 
 ## Table of Contents
   - [Sustainable Development Goals (SDGs)](#Sustainable-Development-Goals-SDGs)
@@ -21,7 +21,7 @@
   - [How to Use DONUT](#How-to-Use-DONUT)
   - [TEAM ZPE (0.8)](#TEAM-ZPE-(0.8))
 
-</br>
+</br></br>
 
 ## Sustainable Development Goals (SDGs)
 | [1] No Poverty                                                                                                              | [12] Responsible Consumption and Production |
@@ -29,12 +29,11 @@
 | <img src="https://github.com/Donut-DONationUTile/.github/assets/79368467/2eb097ef-2c68-439f-a080-76c8328cb457" width="400"> | <img src="https://github.com/Donut-DONationUTile/.github/assets/79368467/51c7f9e8-cbec-46d1-865e-e615e5548261" width="400"> |
 | End poverty in all its forms, everywhere.                                                                                   | Ensure sustainable consumption and production patterns. |
 
-
-</br>
+</br></br>
 
 ## Architecture
 
-<image src='https://github.com/akimcse/akimcse/assets/63237214/3e7744b7-74e9-4c82-a6fd-af68271b2595'/>
+<image src='https://github.com/akimcse/akimcse/assets/63237214/64caa0f1-bb7c-4390-9344-d1209b0f1803'/>
 </br></br>
 
 #### DONUT is comprised of a Client Application, Web Server, Database, Storage, and AI Server.
@@ -46,14 +45,12 @@
   </br></br>
   The AI Model, served by `FastAPI`, is hosted on a separate VM from the Web Server. It is also deployed using Docker in preparation for utilizing `Kubernetes` for resource management caused by an increase in the number of users. Low-resolution gift card images forwarded from the Web Server to the AI Server are enhanced to high resolution using `TensorFlow`’s ESRGAN model and then stored in the GCP Storage bucket. The URLs of the stored objects are also updated in the Database.
 
-</br>
+</br></br>
 
 ## Tech Stacks
-
-
 ![image](https://github.com/Donut-DONationUTile/.github/assets/90603399/b35af4c6-eaf9-4588-aa71-587d2f13f2f2)
 
-</br>
+</br></br>
 
 ## How to Run - Client
 
@@ -82,13 +79,12 @@
 2. sudo docker tag `kang1221/donut donut`
 3. sudo docker-compose up
 
-</br>
+</br></br>
 
 ## How to Use DONUT
-<image src='https://github.com/akimcse/akimcse/assets/63237214/47762083-5b4b-40a6-bf0c-3eba7499bae3'/>
+<image src='https://github.com/akimcse/akimcse/assets/63237214/845d8d38-2b73-4897-ba63-c45ba32e28d0'/>
 
-</br>
-</br>
+</br></br>
 
 ## TEAM ZPE (0.8)
 
