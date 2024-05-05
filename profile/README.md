@@ -85,7 +85,7 @@
 </br>
 
 ## How to Use DONUT
-<image src='https://github.com/akimcse/akimcse/assets/63237214/853e1456-4482-4545-b258-439c694281f9'/>
+<image src='https://github.com/akimcse/akimcse/assets/63237214/47762083-5b4b-40a6-bf0c-3eba7499bae3'/>
 
 </br>
 </br>
