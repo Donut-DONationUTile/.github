@@ -1,4 +1,4 @@
-# DONUT-DONationUTile [![APK file](https://img.shields.io/badge/-APK%20file-blue)](https://drive.google.com/file/d/1g9B9qp6Sc10ojrjxJZ483lGM3o34yWJt/view?usp=sharing)
+# DONUT-DONationUTile [![APK file](https://img.shields.io/badge/-APK%20file-blue)](https://drive.google.com/file/d/1g9B9qp6Sc10ojrjxJZ483lGM3o34yWJt/view?usp=sharing) [![Demo Video](https://img.shields.io/badge/-Demo%20Video-red)](https://youtu.be/qjlmdKrCPa)
 
 >_“A shilling is the measure of less pleasure, or satisfaction of any kind, to a rich man than to a poor one. The happiness which an additional shilling brings to a poor man is much greater than that which it brings to a rich one.”_
 </br></br>_- Principles of Economics (8th ed.) PLL v6.0 (generated September, 2011) 16 -_
@@ -33,7 +33,7 @@
 
 ## Architecture
 
-<image src='https://github.com/akimcse/akimcse/assets/63237214/64caa0f1-bb7c-4390-9344-d1209b0f1803'/>
+<image src='https://github.com/akimcse/akimcse/assets/63237214/49c749af-5579-42fe-b45c-d85a9c258dd8'/>
 </br></br>
 
 #### DONUT is comprised of a Client Application, Web Server, Database, Storage, and AI Server.
